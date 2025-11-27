@@ -1,0 +1,5 @@
+notebooks/*.json
+notebooks/*.txt
+notebooks/*.pkl
+notebooks/*.npz
+notebooks/*.csv
